@@ -20,7 +20,8 @@
 
 #helaer_ul {
     width: 100%;
-    position: absolute;
+    /* position: absolute; */
+    /* transition: all 0.7s linear; */
     /* top: -50px; */
 }
 
